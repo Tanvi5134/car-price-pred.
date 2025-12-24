@@ -1,4 +1,4 @@
-Car Price Prediction using Machine Learning
+CAR PRICE PREDICTION
 
 Project Overview
 This project predicts the selling price of a car based on various features such as year of manufacture, present price, kilometers driven, fuel type, seller type, transmission, and ownership.
@@ -25,7 +25,7 @@ Key Features:
 
 Target Variable:
 - **Selling_Price**
-- 
+
 Technologies Used
 - Python  
 - Pandas  
